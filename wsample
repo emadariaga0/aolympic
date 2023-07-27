@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.Olympic - Tutoring for Olympiads</title>
+</head>
+<body>
+    <header>
+        <h1>A.Olympic</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to A.Olympic</h2>
+            <p>Unlock your potential in math, physics, biology, and chemistry olympiads with expert tutoring from A.Olympic. Our dedicated team of tutors will guide you to success and help you excel in your academic journey.</p>
+        </section>
+
+        <section id="courses">
+            <h2>Our Courses</h2>
+            <ul>
+                <li>Math Olympiad</li>
+                <li>Physics Olympiad</li>
+                <li>Biology Olympiad</li>
+                <li>Chemistry Olympiad</li>
+            </ul>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>A.Olympic is a leading educational organization committed to nurturing young minds and preparing them for olympiad challenges. Our tutors are experienced professionals dedicated to helping students reach their full potential.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>For inquiries or to enroll in our tutoring programs, please contact us at:</p>
+            <p>Email: info@aolympic.com</p>
+            <p>Phone: +1 (123) 456-7890</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>New exciting updates coming soon! Stay tuned!</p>
+        <p>&copy; 2023 A.Olympic. All rights reserved.</p>
+    </footer>
+</body>
+</html>
